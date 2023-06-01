@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_cshp_agosto_2019\\CShp_Dapper1\\CShp_Dapper1\\CShp_Dapper1.csproj": {}
+    "C:\\Users\\rick_\\OneDrive\\Documentos\\Projetos\\CsDapper\\CShp_Dapper1\\CShp_Dapper1.csproj": {}
   },
   "projects": {
-    "C:\\_cshp_agosto_2019\\CShp_Dapper1\\CShp_Dapper1\\CShp_Dapper1.csproj": {
+    "C:\\Users\\rick_\\OneDrive\\Documentos\\Projetos\\CsDapper\\CShp_Dapper1\\CShp_Dapper1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_cshp_agosto_2019\\CShp_Dapper1\\CShp_Dapper1\\CShp_Dapper1.csproj",
+        "projectUniqueName": "C:\\Users\\rick_\\OneDrive\\Documentos\\Projetos\\CsDapper\\CShp_Dapper1\\CShp_Dapper1.csproj",
         "projectName": "CShp_Dapper1",
-        "projectPath": "C:\\_cshp_agosto_2019\\CShp_Dapper1\\CShp_Dapper1\\CShp_Dapper1.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\_cshp_agosto_2019\\CShp_Dapper1\\CShp_Dapper1\\obj\\",
+        "projectPath": "C:\\Users\\rick_\\OneDrive\\Documentos\\Projetos\\CsDapper\\CShp_Dapper1\\CShp_Dapper1.csproj",
+        "packagesPath": "C:\\Users\\rick_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rick_\\OneDrive\\Documentos\\Projetos\\CsDapper\\CShp_Dapper1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\rick_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -31,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -42,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Dapper": {
               "target": "Package",
@@ -63,10 +64,17 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
