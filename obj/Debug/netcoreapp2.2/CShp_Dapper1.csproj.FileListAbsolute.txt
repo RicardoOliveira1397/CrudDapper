@@ -1,0 +1,12 @@
+C:\_cshp_agosto_2019\CShp_Dapper1\CShp_Dapper1\bin\Debug\netcoreapp2.2\CShp_Dapper1.dll.config
+C:\_cshp_agosto_2019\CShp_Dapper1\CShp_Dapper1\bin\Debug\netcoreapp2.2\CShp_Dapper1.deps.json
+C:\_cshp_agosto_2019\CShp_Dapper1\CShp_Dapper1\bin\Debug\netcoreapp2.2\CShp_Dapper1.runtimeconfig.json
+C:\_cshp_agosto_2019\CShp_Dapper1\CShp_Dapper1\bin\Debug\netcoreapp2.2\CShp_Dapper1.runtimeconfig.dev.json
+C:\_cshp_agosto_2019\CShp_Dapper1\CShp_Dapper1\bin\Debug\netcoreapp2.2\CShp_Dapper1.dll
+C:\_cshp_agosto_2019\CShp_Dapper1\CShp_Dapper1\obj\Debug\netcoreapp2.2\CShp_Dapper1.csprojAssemblyReference.cache
+C:\_cshp_agosto_2019\CShp_Dapper1\CShp_Dapper1\obj\Debug\netcoreapp2.2\CShp_Dapper1.csproj.CoreCompileInputs.cache
+C:\_cshp_agosto_2019\CShp_Dapper1\CShp_Dapper1\obj\Debug\netcoreapp2.2\CShp_Dapper1.AssemblyInfoInputs.cache
+C:\_cshp_agosto_2019\CShp_Dapper1\CShp_Dapper1\obj\Debug\netcoreapp2.2\CShp_Dapper1.AssemblyInfo.cs
+C:\_cshp_agosto_2019\CShp_Dapper1\CShp_Dapper1\bin\Debug\netcoreapp2.2\CShp_Dapper1.pdb
+C:\_cshp_agosto_2019\CShp_Dapper1\CShp_Dapper1\obj\Debug\netcoreapp2.2\CShp_Dapper1.dll
+C:\_cshp_agosto_2019\CShp_Dapper1\CShp_Dapper1\obj\Debug\netcoreapp2.2\CShp_Dapper1.pdb
